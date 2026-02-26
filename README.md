@@ -16,7 +16,7 @@ concepts_used:
 total_programs: 20
 ---
 
-# C++ Programming Assignment – 3
+# C++ Programming Assignment – 1
 
 ## 📌 Description
 This repository contains solutions to **20 basic C++ programming problems**.  
